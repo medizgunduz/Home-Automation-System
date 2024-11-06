@@ -8,7 +8,7 @@ General Requirements:
 Hardware Requirements:
  Sensors:
   Motion sensors 
-  Temperature sensors
+  Temperature and humidity sensors
   Door/window sensors (open/closed status)
  Devices:
   Smart plugs and switches
